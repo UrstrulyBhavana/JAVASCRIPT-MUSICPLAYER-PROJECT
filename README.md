@@ -22,7 +22,6 @@
 
 
 
-![musicplayer](https://github.com/user-attachments/assets/d7c1390d-6f5d-432f-a820-a9866b8cb8ea)
 
 
 https://github.com/user-attachments/assets/0af97ad5-e3d4-4309-9285-7221429ef428
