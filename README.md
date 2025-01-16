@@ -6,15 +6,15 @@
  
 ## Key features include:
 
- ###  Dynamic Content:- Displays the current song's title, singer, and album art dynamically from a predefined playlist.
+ ####  Dynamic Content:- Displays the current song's title, singer, and album art dynamically from a predefined playlist.
 
-   Media Controls:-  Users can play, pause, and skip forward or backward between songs.
+ ####   Media Controls:-  Users can play, pause, and skip forward or backward between songs.
 
-   Progress Tracking:- A progress bar shows the song's current playback status, along with elapsed and total time.
+ ####  Progress Tracking:- A progress bar shows the song's current playback status, along with elapsed and total time.
    
-   Responsive Design:- The layout adapts seamlessly to different screen sizes.
+ ####  Responsive Design:- The layout adapts seamlessly to different screen sizes.
 
-   Animations:- Album art rotates while a song is playing for a lively user experience.
+ #### Animations:- Album art rotates while a song is playing for a lively user experience.
     
 
    The app uses a data array to manage song metadata, linking images and audio files for a complete experience.
