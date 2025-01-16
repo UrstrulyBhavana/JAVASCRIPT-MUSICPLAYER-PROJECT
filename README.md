@@ -17,9 +17,9 @@
  #### Animations:- Album art rotates while a song is playing for a lively user experience.
     
 
-   The app uses a data array to manage song metadata, linking images and audio files for a complete experience.
+ ###  The app uses a data array to manage song metadata, linking images and audio files for a complete experience.
    
-   It’s a great example of combining design and functionality for an engaging project.
+ ### It’s a great example of combining design and functionality for an engaging project.
 
 
 
