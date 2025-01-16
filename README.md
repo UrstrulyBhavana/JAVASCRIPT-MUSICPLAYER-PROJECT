@@ -1,8 +1,11 @@
+ # Music-Player App
+ 
  Music Player Web Application designed with HTML, CSS, and JavaScript. It features an interactive interface to play, pause, and navigate through a list of songs.
 
  The Music Player Web Application is an interactive and visually appealing project built using HTML, CSS, and JavaScript.
  It allows users to play, pause, and navigate through a playlist of songs.
- Key features include:
+ 
+## Key features include:
 
      Dynamic Content:    Displays the current song's title, singer, and album art dynamically from a predefined playlist.
 
